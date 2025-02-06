@@ -1,0 +1,201 @@
+,customer_id,name,email,phone,location,signup_date,is_premium,preferred_cuisine,total_orders,average_rating
+0,101,Paula Anderson,zacharybenjamin@example.net,(472)511-0850,Sweeneyview,2023-06-18,TRUE,Chinese,91,5
+1,102,Miss Erin Hernandez,diana99@example.net,867-317-9695,Jennifershire,2022-05-17,TRUE,Mexican,39,3
+2,103,Bradley Mccall,torreslindsay@example.net,430-501-5768x5586,Mitchellfort,2024-11-13,TRUE,Italian,68,2
+3,104,Robert Russell,cathyjohnson@example.com,001-203-949-0026x73780,Lake Taylor,2024-01-08,TRUE,Chinese,66,1
+4,105,Charles Robinson,ljackson@example.org,(457)518-6628,South Angela,2022-03-05,FALSE,Chinese,30,1
+5,106,Daniel Arnold,russellsean@example.org,445.891.8548,East Patriciaport,2024-07-25,TRUE,Mexican,91,5
+6,107,Steven Nguyen,marilynwolf@example.net,572-695-3611x07102,South Joshua,2023-08-21,TRUE,Chinese,36,4
+7,108,Jillian Wagner,kevin40@example.org,7279453955,Esparzafort,2022-10-25,TRUE,Chinese,90,3
+8,109,Mrs. Angela Powell,fcamacho@example.org,(958)542-3796x625,Holdenshire,2021-06-24,TRUE,Mexican,25,2
+9,110,Jeremy Chavez,awilliams@example.org,+1-316-201-6691x16688,Lake Natalieberg,2020-03-17,TRUE,Italian,4,1
+10,111,Jessica Blackwell,burtontonya@example.org,262-993-3851,Stephanieshire,2021-10-14,FALSE,Indian,85,3
+11,112,Kayla Prince,lsmith@example.net,001-393-945-2184,Wrighthaven,2024-09-23,TRUE,Mexican,86,4
+12,113,Richard Graves,oreilly@example.org,227.795.2791x8576,Susanmouth,2023-06-05,FALSE,French,71,2
+13,114,Jonathan Petersen,alane@example.net,890.947.7716,Annamouth,2024-05-29,TRUE,Mexican,97,1
+14,115,Darrell Meadows,michaelhenry@example.org,+1-848-826-1482x5710,Matthewville,2024-01-05,FALSE,French,51,3
+15,116,Stephen Ewing,mooneysamuel@example.org,244.600.6217x71205,Micheleland,2020-07-07,FALSE,Italian,45,1
+16,117,Hannah Schwartz,marvindillon@example.net,(799)330-7331,West Bobbyfort,2022-08-19,FALSE,French,53,2
+17,118,Bonnie Morgan,pacedeborah@example.com,920.562.4241,Lake Troy,2021-08-24,FALSE,Indian,98,4
+18,119,Erika Harris,brownbrian@example.com,2185372874,East Brad,2021-06-28,TRUE,Chinese,50,2
+19,120,Misty Terry,gsnow@example.org,(253)557-5359,Barnetthaven,2020-09-30,FALSE,Indian,24,5
+20,121,Jeffrey Harrington,jjackson@example.net,+1-500-482-2266x1280,West Victorville,2022-11-06,TRUE,Italian,33,4
+21,122,Whitney Valdez,nsmith@example.com,(737)730-1455,Alexanderburgh,2020-05-29,FALSE,French,55,2
+22,123,James Mcclain,kellermichael@example.org,732-917-9509x08757,Millerview,2024-06-03,TRUE,Mexican,32,5
+23,124,Dominique Smith,stephen13@example.com,873.251.6494x87524,Debbietown,2024-04-02,FALSE,Chinese,74,5
+24,125,Sara Chang,jamesray@example.org,629.911.2976x034,Marytown,2021-11-30,FALSE,Mexican,62,4
+25,126,Emily Cross,jenkinsnicole@example.net,(246)565-1734x93590,Sandersside,2024-01-16,TRUE,Chinese,38,4
+26,127,Reginald Martinez,curtisbell@example.net,001-912-314-3122x767,Ricardobury,2023-01-14,TRUE,Chinese,87,3
+27,128,Lori Lee,matthew95@example.org,645-402-2583,Greenmouth,2022-09-13,FALSE,Mexican,73,5
+28,129,Mr. Jonathan Ball,ashleymccall@example.com,812.254.7193,Port Michelle,2021-08-12,TRUE,Mexican,43,2
+29,130,Ms. Jennifer Holden,gabrielacohen@example.net,2742768307,Port Patrickville,2021-03-25,TRUE,Mexican,87,1
+30,131,Dawn White,rstewart@example.com,(752)871-5879x489,East Briana,2023-03-13,TRUE,Chinese,75,1
+31,132,Lisa Mcclure,amber58@example.net,510-478-5261,New Robert,2022-07-25,TRUE,Indian,25,4
+32,133,Eric Baker,sdavis@example.com,986-203-8847x03408,North Melvintown,2020-12-27,TRUE,Mexican,24,3
+33,134,Taylor Garcia,carlathomas@example.net,2465729998,West Carmenfort,2023-05-26,TRUE,Italian,30,3
+34,135,Michelle Duncan,yvonne84@example.org,+1-703-754-1845x675,North Sharon,2021-01-09,TRUE,Mexican,60,4
+35,136,Ryan Shaw,srollins@example.org,(535)423-1391,South Stephanie,2021-01-02,FALSE,Mexican,50,3
+36,137,Victoria Griffith,lrobbins@example.net,(854)706-3146,Port Coleton,2022-05-28,TRUE,Chinese,6,1
+37,138,Patricia Black,kevin57@example.net,694.355.2381x52803,West Kayla,2024-06-07,TRUE,Chinese,13,5
+38,139,Melissa Pierce,reillykathryn@example.com,972-918-6150x23391,Kevinville,2022-09-20,TRUE,Italian,12,2
+39,140,Tanner Ortega,christopherreed@example.net,8869191145,Ashleeside,2021-08-30,TRUE,Italian,56,2
+40,141,Daniel Ayala,miguel64@example.com,001-748-724-9885x69881,Ashleymouth,2022-07-27,TRUE,Chinese,85,1
+41,142,Mary Bradford,ogalvan@example.net,001-309-574-8206,Richardhaven,2022-06-06,FALSE,French,87,4
+42,143,Amber Smith,afoster@example.com,419.613.0716x660,Deniseborough,2025-01-17,TRUE,Chinese,29,5
+43,144,Samantha Barnes,qbennett@example.org,680-329-6466x3359,Dennisview,2024-08-21,TRUE,French,53,3
+44,145,Edward Contreras,alicia18@example.com,001-577-605-1928,Sanderstown,2022-08-22,FALSE,Chinese,34,1
+45,146,Pamela Kaufman,sweeneychad@example.com,2247044415,Davidhaven,2020-07-12,FALSE,Italian,42,4
+46,147,Michael Graves,whitakermichaela@example.org,001-785-573-5714x562,West Holly,2024-07-13,TRUE,Italian,51,4
+47,148,Sarah Rodriguez,joneskathleen@example.com,+1-377-335-9541x69074,Paulside,2023-07-18,FALSE,Mexican,29,3
+48,149,Autumn Morgan,williamhess@example.net,340.384.7158,Loriberg,2021-08-09,TRUE,Italian,78,1
+49,150,Hayley Smith,awarner@example.net,756-410-3298x44984,Lawrenceland,2022-08-02,FALSE,Chinese,16,3
+50,151,Aaron Salazar,kimberlybush@example.net,747-769-4139x81479,New Kimberlyburgh,2024-02-16,FALSE,Indian,92,2
+51,152,Brent West,anthonyaguilar@example.com,(379)921-3748x65006,North Melissa,2024-02-04,FALSE,Mexican,86,3
+52,153,Laura Taylor,gallegosryan@example.org,7788529112,Lake Nancychester,2024-08-23,TRUE,Mexican,54,1
+53,154,Misty Williams,kylemendoza@example.net,250-227-2369,Jamesshire,2023-11-22,FALSE,Italian,44,4
+54,155,Jamie Hall,hillveronica@example.net,235.850.2918,South Benjaminton,2021-07-28,FALSE,Chinese,12,1
+55,156,Janice Mills,josephthomas@example.org,(204)437-4328,East Jacob,2023-02-24,TRUE,Indian,16,3
+56,157,Megan Kelley,cbrown@example.com,(740)731-5109x4798,Teresaburgh,2024-05-09,FALSE,Chinese,67,3
+57,158,Christie Martinez,castillohannah@example.net,(830)280-0382,Tracyville,2024-07-11,TRUE,Chinese,9,2
+58,159,Danielle Cortez,deborahmason@example.org,(957)253-1955,Melissachester,2022-11-30,FALSE,Italian,49,2
+59,160,Frederick Gonzales,xrobinson@example.com,(720)796-6672,Johnsonside,2020-08-30,TRUE,Chinese,49,3
+60,161,Thomas Armstrong,steven25@example.com,+1-509-441-9426x38524,East Desiree,2024-01-31,TRUE,Indian,35,5
+61,162,Teresa Olsen,craigrenee@example.org,+1-403-764-4823x2377,Samanthafort,2023-11-23,TRUE,Indian,68,5
+62,163,Jonathan Cole,margaret43@example.net,(668)272-8872,Patrickview,2024-05-13,TRUE,Mexican,97,1
+63,164,Jeff Gregory Jr.,livingstonjames@example.net,(276)466-3701,South Christine,2023-02-22,TRUE,Indian,3,2
+64,165,Brian Holmes,michaelmann@example.org,(929)911-9823x21936,West Benjamin,2024-09-11,FALSE,French,85,4
+65,166,Charles Sanders,ycantrell@example.net,(516)221-3531x33004,New Kristiside,2023-01-04,FALSE,Mexican,85,1
+66,167,Lisa Norman,ccastro@example.com,447-738-9641x09508,Collierview,2022-11-08,FALSE,French,82,2
+67,168,Megan Greene,brandtmichael@example.org,488-381-5879,Jacksonborough,2020-04-11,FALSE,Indian,93,2
+68,169,Roger Mccormick,longrebecca@example.org,+1-861-413-5790x47354,East Christy,2024-02-15,FALSE,Chinese,59,4
+69,170,Mr. Wayne Perez,lisamunoz@example.net,001-974-242-3270x80296,Johnsonland,2022-11-17,FALSE,French,67,4
+70,171,Lindsay Booth,guzmanthomas@example.org,422.596.6664,South Jennifer,2022-09-11,FALSE,French,41,4
+71,172,Ashley Smith,ryankelley@example.org,001-892-827-7033,East Josemouth,2023-05-09,FALSE,Indian,7,1
+72,173,Daniel Reese,michaelwatson@example.org,(594)830-0728x135,Lake Michelle,2022-07-17,TRUE,Indian,51,3
+73,174,Miss Shelby Allen,kelly69@example.org,479.319.9335x9695,South Oliviachester,2022-05-23,FALSE,French,8,2
+74,175,Tom Brown,michelle76@example.com,834-858-8554x813,East Gabrielleview,2020-12-14,TRUE,Mexican,18,5
+75,176,Amber Bentley,cpacheco@example.com,880-375-8570x16024,East Ricky,2024-09-29,TRUE,Mexican,100,2
+76,177,Terri Shannon,ashley65@example.net,574.425.6749,Lake Kerri,2025-02-03,TRUE,Chinese,36,5
+77,178,Christopher Bradley,murraylisa@example.net,365.671.7988x8320,Gregorychester,2022-11-19,TRUE,Mexican,14,2
+78,179,Lisa Briggs,hwalls@example.com,+1-570-345-9087x11392,Elaineside,2020-09-25,FALSE,Chinese,11,1
+79,180,Andrew Rollins,nathan70@example.org,+1-430-849-2240x14888,Nunezfurt,2021-02-04,FALSE,Mexican,22,2
+80,181,Andrew King,michael47@example.net,(636)352-6271,Leonardshire,2021-06-05,FALSE,Indian,90,3
+81,182,John Phillips,stacyforbes@example.com,448-521-1643,Autumnstad,2022-10-15,FALSE,Chinese,40,3
+82,183,Angela Jimenez,whorton@example.net,001-417-677-4761x49129,Lake Paulview,2024-10-01,FALSE,Italian,82,5
+83,184,William Ibarra,bob95@example.org,249.520.2385x60336,Kennethhaven,2020-10-02,TRUE,Italian,21,1
+84,185,Sarah Pena,tchavez@example.org,(783)872-8411,Erinton,2022-11-04,FALSE,Italian,52,3
+85,186,Allison Rodriguez,christophermcgee@example.org,344.496.0682,Port Glenn,2023-01-31,TRUE,Chinese,34,4
+86,187,Noah Olson,caseymark@example.com,001-934-368-1401x7325,Elainetown,2022-12-31,FALSE,Chinese,55,5
+87,188,Jared Costa,brenda68@example.org,001-373-946-5431x056,South Randy,2022-03-21,TRUE,Mexican,36,3
+88,189,Joshua Santiago,adamslori@example.net,+1-938-293-7287x56263,South Shaneport,2024-04-27,FALSE,Mexican,26,1
+89,190,Allison Olsen,justinolson@example.net,850.514.8795,Lake Russell,2020-10-07,TRUE,Italian,11,5
+90,191,Thomas Hughes,schwartzbethany@example.com,+1-514-584-4084x05368,South Sara,2024-08-05,TRUE,Chinese,10,4
+91,192,Paul Powers,rmiller@example.org,001-561-370-1671x587,East Roger,2025-01-21,FALSE,Indian,50,2
+92,193,Gabrielle Harvey,josecox@example.org,772.307.5915,New Timothy,2021-05-21,FALSE,Indian,36,4
+93,194,Eric Pierce,qdaugherty@example.org,515-760-8824x75002,Lake Donna,2024-06-07,TRUE,Chinese,62,2
+94,195,Jesus Silva,howelljames@example.org,583-214-4632,New Melissa,2020-02-09,FALSE,Chinese,75,4
+95,196,Gabrielle Best,jaredprice@example.com,(932)692-4490,East Robert,2023-02-25,FALSE,Chinese,1,5
+96,197,Heidi Phillips,phillipgarcia@example.org,001-214-477-2691x759,East Julia,2021-03-25,FALSE,Indian,63,5
+97,198,Christine Burch,perezteresa@example.org,525-640-0273x0053,New Paulborough,2024-09-20,TRUE,Indian,14,5
+98,199,Julie Ramsey,sspence@example.net,434.201.1429,Krystalstad,2023-09-27,FALSE,French,77,4
+99,200,Nicole Key,jamesmason@example.net,+1-475-471-7991x47749,Amandaville,2023-01-15,FALSE,Italian,48,4
+100,201,Janet Lynch,igregory@example.org,570-247-1977,New Nathanberg,2023-08-18,TRUE,Indian,23,4
+101,202,Dana Romero,brandi37@example.com,306.280.2961x86005,Howardport,2023-03-03,FALSE,Mexican,39,2
+102,203,Krystal Owen,fbray@example.net,001-952-687-8013x25956,Taylorberg,2020-04-17,TRUE,Mexican,99,2
+103,204,Tara Perkins,melindasmith@example.com,793-397-6994,Smithmouth,2022-07-15,FALSE,Chinese,56,2
+104,205,Joan Lewis,troyhoward@example.org,(280)364-7397x4137,North Alexa,2023-03-31,TRUE,Mexican,62,3
+105,206,Robert Davis,williamsanders@example.com,(499)234-7776,East Kennethburgh,2022-08-26,FALSE,French,71,1
+106,207,Samuel Thompson,sreynolds@example.com,217-940-1954,West Terri,2020-10-12,TRUE,Indian,4,2
+107,208,Randy Gomez,xsnow@example.com,+1-439-644-2307x9654,Richardsonborough,2021-01-15,TRUE,French,7,2
+108,209,Grace Castillo,kendracampbell@example.org,744-738-5037x6952,Smithview,2023-01-22,FALSE,Chinese,42,3
+109,210,Devin King,sherrisnyder@example.com,805.720.4128,Davidton,2023-10-22,TRUE,French,36,1
+110,211,Steven Cortez,ofoley@example.com,+1-518-742-9228x6763,Myersmouth,2023-04-19,FALSE,Mexican,76,1
+111,212,Bradley Gonzalez,nmiller@example.com,(628)518-5863x95510,Jamesside,2024-06-08,TRUE,French,45,4
+112,213,Robert Mathis,morrisandrew@example.org,+1-727-839-5341x98169,North Luke,2024-11-22,FALSE,Indian,68,4
+113,214,Kevin Scott,ofranklin@example.net,001-540-556-3181,New Sara,2024-08-05,TRUE,Indian,61,4
+114,215,Elizabeth Evans,laurawilson@example.net,283.384.7858,Sandrafort,2023-02-15,TRUE,French,38,2
+115,216,Michele Hicks,laurenchambers@example.org,-2959,East Joshuaborough,2022-09-28,FALSE,French,82,2
+116,217,Zachary Peters,bartlettjonathan@example.net,596-831-7839,Thomaston,2023-02-13,TRUE,Chinese,97,3
+117,218,Ashley Johnson,jenniferanderson@example.com,(351)655-6168,Aaronland,2022-06-19,TRUE,Mexican,89,4
+118,219,Stephen Hanson,smithroy@example.com,(658)362-4487,New Nicole,2024-07-28,FALSE,French,44,1
+119,220,Antonio Grant,victoriabishop@example.com,601.524.0306x59821,South Joannamouth,2021-05-20,TRUE,Mexican,49,3
+120,221,Michael Moore,lopezluke@example.org,001-414-762-7015,Katiechester,2024-07-18,TRUE,French,92,1
+121,222,Stacey George,swhite@example.net,719-301-5048x97228,Lake Robert,2023-01-20,TRUE,Mexican,9,2
+122,223,Troy Stout,rnguyen@example.com,247.732.0089x2856,New Williamfort,2023-01-20,FALSE,Italian,18,1
+123,224,Jennifer Williams,ggarcia@example.org,(689)994-1035x36575,West Rickyport,2023-04-16,TRUE,Indian,12,4
+124,225,Steven Wright,paulcarroll@example.com,+1-995-239-0220x98144,Lake Wesleyport,2022-08-08,FALSE,Chinese,10,2
+125,226,Kendra Weber,wmcgee@example.net,(204)624-5443x379,North Alexandraland,2021-09-06,TRUE,Chinese,51,1
+126,227,Daniel Johnson,stephenrobbins@example.net,847-564-4709x150,Lopezshire,2023-11-09,TRUE,Indian,41,1
+127,228,Lisa Farrell,smithjoyce@example.net,+1-617-500-3604x29970,West Joelchester,2021-09-09,FALSE,Italian,10,4
+128,229,Russell Reed DDS,louismckee@example.org,(453)792-1545,Gonzalesburgh,2024-06-01,TRUE,Chinese,6,3
+129,230,Brian Tran,lreynolds@example.org,840.590.7091x3126,New Carol,2023-03-14,TRUE,French,25,5
+130,231,Angela Hutchinson,justinnelson@example.org,(757)246-6134,Sylviamouth,2020-07-28,TRUE,Mexican,50,5
+131,232,Christian Zuniga,thomaswells@example.org,744.573.1462,East Jillstad,2024-04-11,FALSE,Indian,33,3
+132,233,Derrick Smith,kimberlycollins@example.net,9593538097,Bensontown,2022-01-21,FALSE,Indian,21,3
+133,234,Cody Hahn,brownrobert@example.com,(957)308-8391x4571,North Dustin,2021-06-19,FALSE,Mexican,89,2
+134,235,Eugene Shelton,nmontoya@example.net,752.402.5230x41609,East Debra,2021-02-20,FALSE,French,65,1
+135,236,Lauren Powell,singhdaniel@example.com,283.414.6056,Joshuaborough,2023-03-10,TRUE,Chinese,64,5
+136,237,Christian Hudson,smithjessica@example.com,678.259.5885x21125,Lake Logan,2022-09-08,TRUE,Chinese,35,1
+137,238,Scott Harris,simmonscharles@example.com,-4433,Lake Andre,2021-10-26,FALSE,Chinese,19,2
+138,239,Mary Little,sierra10@example.org,397.648.3088x631,South Melinda,2021-12-30,FALSE,Mexican,39,2
+139,240,Anthony Finley,jared74@example.com,001-275-391-2031x158,New Phillipside,2021-07-01,FALSE,Indian,79,1
+140,241,Barbara Johnson,inielsen@example.net,(363)761-6680,New Ruthland,2024-07-21,TRUE,Italian,5,1
+141,242,Kimberly Brown,philliprichards@example.com,393-848-3950x001,Alvaradomouth,2020-06-10,FALSE,Chinese,9,2
+142,243,Kathleen Clarke,landrews@example.com,(714)637-1421x5066,New Andrealand,2022-05-24,FALSE,Italian,34,5
+143,244,Shirley Rivera,millerryan@example.com,(712)244-6355,Angelaview,2023-05-31,TRUE,French,24,1
+144,245,Michelle Horton,amandaburke@example.org,382.622.8904x9031,South Debra,2022-05-13,TRUE,French,72,3
+145,246,Elizabeth Lucas,stanleycourtney@example.net,+1-519-916-3407x38683,Staceymouth,2023-04-24,FALSE,French,6,2
+146,247,Rachel Boyd,newmanrebecca@example.net,+1-776-790-7319x06830,West Thomas,2023-07-09,FALSE,Indian,14,5
+147,248,Erin Ochoa,mitchellmelinda@example.org,375-248-1474x2085,Port Ashley,2024-01-14,TRUE,Italian,46,1
+148,249,Kristin Baker,marcedwards@example.org,(368)378-1989x54483,New Douglas,2021-01-15,TRUE,Indian,33,2
+149,250,Richard Perez,carrie16@example.net,(385)847-9492x91053,Garyside,2024-02-04,FALSE,Chinese,2,3
+150,251,Chelsea Schultz,joseph05@example.org,-8977,Port Jenniferbury,2020-04-09,FALSE,Indian,96,2
+151,252,Anna Flynn,kathleenrobbins@example.com,001-816-331-4781x87946,South Chad,2021-01-13,TRUE,Italian,59,4
+152,253,David Jones,maguilar@example.net,001-326-477-8265x0301,Wilkinsborough,2022-05-16,TRUE,Mexican,61,4
+153,254,Kyle Thompson,moranlinda@example.com,568-924-6454,Susanfurt,2020-01-19,FALSE,Mexican,99,1
+154,255,David Adams,leewanda@example.net,001-632-213-8363,Thomasfurt,2022-11-25,TRUE,Chinese,21,3
+155,256,Keith Singh,scottlevine@example.com,(647)540-6304x0925,Guzmanborough,2021-05-07,TRUE,Indian,5,3
+156,257,Craig Ellison,deanna22@example.com,(897)203-2404,West Marybury,2024-11-06,FALSE,French,19,1
+157,258,Katrina Moon,mccormickcrystal@example.org,(290)942-1314x914,South Hannah,2020-12-31,TRUE,Indian,64,5
+158,259,Ronald Henry,smosley@example.org,+1-399-291-7953x54552,Lake Edward,2021-06-25,TRUE,Indian,88,3
+159,260,Tammy Simon,whitneyross@example.com,408-312-6592,West Ginachester,2024-05-01,TRUE,Chinese,79,3
+160,261,Brittany Burns,calvingoodwin@example.net,507-439-4496,Colemanshire,2023-12-05,FALSE,Italian,61,3
+161,262,Joseph Frye,david96@example.net,001-737-618-0422,Millerton,2020-04-27,FALSE,Mexican,83,1
+162,263,Michael Oliver,sophiabarnes@example.net,715-443-2331x3898,South Daryl,2022-05-18,FALSE,Chinese,62,4
+163,264,Summer Richardson,hunterjames@example.org,9163647874,New Zacharyton,2021-05-27,TRUE,Italian,23,5
+164,265,Timothy Gibson,michelle77@example.net,756.899.4635,Jeffreyborough,2024-07-17,FALSE,French,100,1
+165,266,Amy Townsend,lbond@example.com,715-532-2974,West Richard,2025-01-16,TRUE,Indian,40,5
+166,267,Phillip Gonzales,wfowler@example.net,+1-516-869-1017x204,South Johnbury,2024-03-25,FALSE,French,73,4
+167,268,Rachel Miller,wilcoxdavid@example.org,(339)719-0544x0852,West Pamela,2023-05-22,FALSE,Italian,71,5
+168,269,Zachary Baxter,jasonmiller@example.org,+1-766-627-0142x31262,East Thomaston,2021-08-21,TRUE,Mexican,51,4
+169,270,Richard Wood,wongmichaela@example.org,2306697125,Port Christopher,2020-04-07,TRUE,Indian,92,5
+170,271,Amanda House,gouldglenn@example.org,(734)374-7807x6587,Stacyshire,2022-06-09,FALSE,Italian,87,4
+171,272,Johnny Pierce,gleon@example.org,(205)261-4028x66798,Acevedoville,2020-06-27,FALSE,Indian,36,5
+172,273,Christina Wheeler,cbrooks@example.org,821.789.6192,Lake Tammy,2023-11-24,FALSE,Chinese,67,3
+173,274,Chad Michael,iwilliams@example.com,+1-275-369-7167x72832,Allenborough,2021-10-10,FALSE,Chinese,74,5
+174,275,Thomas Gibson,marywatkins@example.net,(310)697-2533,Castillofort,2024-06-10,TRUE,Indian,51,2
+175,276,Eric Cook,samantha49@example.com,001-209-404-8976,Port Mallory,2025-01-24,FALSE,Mexican,88,4
+176,277,Tricia Johnson,jprice@example.org,229-551-7041x5779,Lake Alyssaburgh,2022-11-17,FALSE,Mexican,93,1
+177,278,Hannah Mendoza,anthony68@example.com,501.910.3323,Johnmouth,2021-02-24,FALSE,Italian,95,2
+178,279,Heather Sanchez,robert37@example.com,(774)570-6586x2010,New Christinetown,2021-05-29,TRUE,Indian,69,3
+179,280,Kent Mendoza,jill88@example.com,259.502.9579,North Adrienneville,2023-07-25,FALSE,Italian,33,3
+180,281,Angelica Johnson,omoore@example.org,+1-245-745-2326x344,Staceychester,2025-01-30,FALSE,Chinese,53,4
+181,282,Patricia Hammond MD,nicole53@example.org,(222)622-6741,Katrinatown,2021-11-15,TRUE,Chinese,2,2
+182,283,Cassidy Frazier,carly57@example.org,641.648.9079,Georgeburgh,2024-03-22,TRUE,Chinese,73,5
+183,284,Brian Clark,chicks@example.com,815.797.6609,Port Erik,2021-04-08,TRUE,Italian,62,5
+184,285,Michael Butler,chambersrachel@example.org,335-839-2618x41008,Ryanborough,2024-04-19,TRUE,Italian,99,1
+185,286,Karen Robinson,veronicafuller@example.com,427.926.8369x657,Port Kellytown,2020-08-12,TRUE,Chinese,74,2
+186,287,Stacy Perez,james99@example.org,486-932-5926,West Jeffrey,2025-01-07,TRUE,Italian,85,4
+187,288,Bryan Boyd,ericthomas@example.com,(920)701-0893,Smithton,2024-07-18,TRUE,French,16,5
+188,289,Jose Kelly,kyleanderson@example.com,311-670-9680,South Mary,2023-09-09,TRUE,French,6,2
+189,290,Joseph Gonzales,courtneygilbert@example.org,714-554-3079x15277,Swansonstad,2023-04-09,FALSE,Italian,2,4
+190,291,Paula Le,weissashley@example.com,475.228.4574x897,North Diana,2022-03-19,TRUE,Indian,65,5
+191,292,Kristen Gonzalez,crosales@example.com,+1-251-852-3338x645,South Brookeburgh,2020-07-25,FALSE,French,43,4
+192,293,Elizabeth Cruz,jimenezrobert@example.org,(998)311-3912x1391,Farmerburgh,2020-01-29,TRUE,Mexican,29,4
+193,294,Brian Young,gmcdonald@example.com,(786)401-3969x7382,East James,2022-05-14,FALSE,Chinese,49,2
+194,295,Michelle Green,wlang@example.com,+1-912-730-1820x54646,Maciaschester,2020-03-04,TRUE,Mexican,82,5
+195,296,Christopher Watkins,esnyder@example.org,443.544.0546,Mooreview,2021-11-29,TRUE,French,10,5
+196,297,Larry Hamilton,hpatel@example.org,930-359-1252,Diazburgh,2022-02-27,TRUE,Mexican,64,3
+197,298,Brian Campbell,martha73@example.net,(967)870-6948x8087,South Robinville,2020-03-29,FALSE,Italian,37,5
+198,299,Karina Stewart,brucephilip@example.org,9296530588,West Rhonda,2020-12-29,FALSE,Chinese,43,4
+199,300,Diana Soto,hillcalvin@example.net,612.699.6461x1689,Johnsonville,2025-02-02,TRUE,Italian,74,3
