@@ -1,0 +1,6 @@
+Faker
+Pandas
+streamlit
+mysql
+mysql-connector
+mysql-connector-python
